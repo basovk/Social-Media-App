@@ -1,13 +1,7 @@
 const { admin,db } = require('../utility/admin');
 
 const config = {
-    apiKey: "AIzaSyCaEilAYTKEpAbtgkfwQDrRy9US31Kf9TE",
-    authDomain: "socialmediaapp-3fb90.firebaseapp.com",
-    databaseURL: "https://socialmediaapp-3fb90.firebaseio.com",
-    projectId: "socialmediaapp-3fb90",
-    storageBucket: "socialmediaapp-3fb90.appspot.com",
-    messagingSenderId: "664520036230",
-    appId: "1:664520036230:web:724a1320b737f788e66607"
+    no
 };
 const firebase = require('firebase');
 
